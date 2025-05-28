@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pryMacia_Iefi1.2", "pryMacia_Iefi1.2\pryMacia_Iefi1.2.csproj", "{4A10873F-0A34-47BD-B218-D37821D0C395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A10873F-0A34-47BD-B218-D37821D0C395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A10873F-0A34-47BD-B218-D37821D0C395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A10873F-0A34-47BD-B218-D37821D0C395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A10873F-0A34-47BD-B218-D37821D0C395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD629722-8961-4002-849B-8BD13ADDF43C}
+	EndGlobalSection
+EndGlobal
